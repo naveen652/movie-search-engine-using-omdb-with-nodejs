@@ -1,5 +1,5 @@
 # Movie-Search-Engine-using-OMDb-API-in-Node-js
-A simple movie search engine web app using OMDb API in Node js, inspired by Colt Steele
+A simple movie search engine web app using OMDb API in Node js
 
 ## Instructions After Downloading This Repo
 1. Obtain a OMDb API key by registering with your mail id in [OMDb website](https://www.omdbapi.com/apikey.aspx).
